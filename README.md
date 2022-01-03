@@ -1,6 +1,6 @@
 - Hi, I’m @costonisp , aka co sto from nisp.
 - I’m interested in LoRa and HamRadio.
-- I’m currently a retired telecom engeneer.
+- I’m currently a retired telecom engineer.
 
 <!---
 costonisp/costonisp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
